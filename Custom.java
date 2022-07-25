@@ -52,12 +52,6 @@ public class Custom {
         graph[2].add(new Edge(2,5,10));
         graph[5].add(new Edge(5,2,10));
 
-        graph[3].add(new Edge(3,5,10));
-        graph[5].add(new Edge(5,3,10));
-
-        graph[2].add(new Edge(2,4,10));
-        graph[4].add(new Edge(4,2,10));
-//
         graph[5].add(new Edge(5,6,10));
         graph[6].add(new Edge(6,5,10));
 
