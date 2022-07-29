@@ -1,15 +1,6 @@
 import java.util.ArrayList;
 
 public class GetNumberOfIslands {
-    static class Pair{
-        int row;
-        int col;
-
-        public Pair(int row, int col) {
-            this.row = row;
-            this.col = col;
-        }
-    }
     public static void main(String[] args) {
         int[][] m={{0,0,1,1,1,1,1,1},
                    {0,0,1,1,1,1,1,1},

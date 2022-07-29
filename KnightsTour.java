@@ -1,6 +1,6 @@
 public class KnightsTour {
     public static void main(String[] args) {
-        int[][] a=new int[5][5];
+        int[][] a=new int[6][6];
         print(a,2,3,1);
     }
     public static void display(int[][] a){
