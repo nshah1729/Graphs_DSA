@@ -42,5 +42,7 @@ public class TopologicalSort {
 
         graph[5].add(new Edge(5, 6));
         graph[6].add(new Edge(6, 5));
+
+
     }
 }
